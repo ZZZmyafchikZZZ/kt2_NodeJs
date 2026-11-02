@@ -1,6 +1,2 @@
-.env
-node_modules
-.vscode
-# These files are for tests
-pic.png
-request.http
+*
+!.gitignore
